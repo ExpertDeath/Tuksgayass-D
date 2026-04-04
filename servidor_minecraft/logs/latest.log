@@ -1,0 +1,74 @@
+[12:46:40] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.10+7-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-1044-azure (amd64)
+[12:46:40] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.11-99-main@81b9122 (2026-01-20T19:08:30Z) for Minecraft 1.21.11
+[12:46:40] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[12:46:41] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
+[12:46:44] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 3300ms.
+[12:46:44] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[12:46:44] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+ - FastAsyncWorldEdit (2.15.0+59372c5), SkinsRestorer (15.11.1)
+[12:46:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[12:46:52] [ServerMain/INFO]: Loaded 1470 recipes
+[12:46:52] [ServerMain/INFO]: Loaded 1584 advancements
+[12:46:52] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[12:46:52] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 392.9ms
+[12:46:52] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[12:46:52] [Server thread/INFO]: Loading properties
+[12:46:52] [Server thread/INFO]: This server is running Paper version 1.21.11-99-main@81b9122 (2026-01-20T19:08:30Z) (Implementing API version 1.21.11-R0.1-SNAPSHOT)
+[12:46:52] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[12:46:52] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:46:52] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:46:53] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[12:46:54] [Server thread/INFO]: Default game type: SURVIVAL
+[12:46:54] [Server thread/INFO]: Generating keypair
+[12:46:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:46:54] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[12:46:54] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[12:46:54] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.15.0+59372c5
+[12:46:54] [Server thread/INFO]: Default configuration file written: worldedit-config.yml
+[12:46:55] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@650de854]
+[12:46:55] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.11.1
+[12:46:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:46:55] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.15.0+59372c5
+[12:46:55] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[12:46:55] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[12:46:55] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[12:46:55] [Server thread/INFO]: WEPIF: Updated config file
+[12:46:55] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[12:46:56] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_21_11.PaperweightFaweAdapter as the Bukkit adapter
+[12:46:57] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.11.1
+[12:46:58] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.11.
+[12:46:58] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[12:46:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:46:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:46:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:46:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:46:58] [Server thread/INFO]: Preparing level "world"
+[12:46:58] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[12:46:58] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[12:46:58] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[12:46:58] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |------------------|
+[12:46:58] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[12:46:58] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[12:46:58] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[12:46:58] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Version: 15.11.1
+[12:46:58] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Commit: 13491f5
+[12:46:58] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     This is the latest version!
+[12:46:58] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[12:46:58] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[12:46:58] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[12:46:58] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseConstants] NUMA enable flag is not set; however there is NUMA interaction support for this OS.
+[12:46:58] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseConstants] Detected 1 NUMA nodes.
+[12:46:59] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[12:46:59] [Server thread/INFO]: Preparing spawn area: 100%
+[12:46:59] [Server thread/INFO]: Prepared spawn area in 3 ms
+[12:46:59] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[12:46:59] [Server thread/INFO]: Prepared spawn area in 0 ms
+[12:46:59] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[12:46:59] [Server thread/INFO]: Preparing spawn area: 100%
+[12:46:59] [Server thread/INFO]: Prepared spawn area in 2 ms
+[12:46:59] [Server thread/INFO]: Done preparing level "world" (0.777s)
+[12:46:59] [Server thread/INFO]: [spark] Starting background profiler...
+[12:47:00] [Server thread/INFO]: Running delayed init tasks
+[12:47:00] [Server thread/INFO]: Done (20.487s)! For help, type "help"
+[12:47:00] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 28 build(s) behind ***
+[12:47:00] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
